@@ -10,6 +10,7 @@ title                    : "Yi'ang Chen"
 description              : "Multimodal Foundation Models, World Models, Spatial Intelligence"
 repository               : "BrewieCya/BrewieCya.github.io"
 google_scholar_stats_use_cdn : false
+google_scholar_stats_enabled : false
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/

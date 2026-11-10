@@ -41,7 +41,7 @@ My research interests lie in **multimodal generation and understanding**, **worl
 
 ---
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TMM (Accepted)</div><img src='images/SGVD.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TMM (Accepted)</div><picture><source srcset="images/SGVD.webp" type="image/webp"><img src="images/SGVD.png" alt="SGVD" width="1200" height="669" loading="lazy" decoding="async"></picture></div></div>
 <div class='paper-box-text' markdown="1">
 
 - **SGVD: Selective Generative Video Deraining with Uncertainty-Aware Diffusion**  
@@ -50,7 +50,7 @@ My research interests lie in **multimodal generation and understanding**, **worl
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CAAI TRIT (Accepted)</div><img src='images/S3VD.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CAAI TRIT (Accepted)</div><picture><source srcset="images/S3VD.webp" type="image/webp"><img src="images/S3VD.png" alt="S3VD" width="1200" height="603" loading="lazy" decoding="async"></picture></div></div>
 <div class='paper-box-text' markdown="1">
 
 - **S3VD: Semantic-Guidance Spatio-Temporal Scanning for Video Deraining**  
@@ -59,7 +59,7 @@ My research interests lie in **multimodal generation and understanding**, **worl
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2027 (under review)</div><img src='images/STDVD.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2027 (under review)</div><picture><source srcset="images/STDVD.webp" type="image/webp"><img src="images/STDVD.png" alt="STDVD" width="1305" height="769" loading="lazy" decoding="async"></picture></div></div>
 <div class='paper-box-text' markdown="1">
 
 - **STDVD: Motion-Guided Differential Mamba for High-Fidelity Video Deraining**  
@@ -68,7 +68,7 @@ My research interests lie in **multimodal generation and understanding**, **worl
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2027 (under review)</div><img src='images/KOS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2027 (under review)</div><picture><source srcset="images/KOS.webp" type="image/webp"><img src="images/KOS.png" alt="KOS" width="1200" height="525" loading="lazy" decoding="async"></picture></div></div>
 <div class='paper-box-text' markdown="1">
 
 - **KOS: Coherent Query-State Advancement for Temporal Camera-Only 3D Detection**  
@@ -76,7 +76,7 @@ My research interests lie in **multimodal generation and understanding**, **worl
 
 </div>
 </div>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2027 (under review)</div><img src='images/Underwater.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2027 (under review)</div><picture><source srcset="images/Underwater.webp" type="image/webp"><img src="images/Underwater.png" alt="Underwater image enhancement" width="1142" height="660" loading="lazy" decoding="async"></picture></div></div>
 <div class='paper-box-text' markdown="1">
 
 - **State-Isolated Vision Mamba via Update-Tendency Routing for Underwater Image Enhancement**  
