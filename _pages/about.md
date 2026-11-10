@@ -41,20 +41,20 @@ My research interests lie in **multimodal generation and understanding**, **worl
 
 ---
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TMM (major revision)</div><img src='images/SGVD.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TMM (Accepted)</div><img src='images/SGVD.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - **SGVD: Selective Generative Video Deraining with Uncertainty-Aware Diffusion**  
-*Major Revision, IEEE TMM, 2026*.
+*Accepted, IEEE TMM, 2026*.
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CAAI TRIT (major revision)</div><img src='images/S3VD.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CAAI TRIT (Accepted)</div><img src='images/S3VD.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - **S3VD: Semantic-Guidance Spatio-Temporal Scanning for Video Deraining**  
-*Major Revision, CAAI Transactions on Intelligence Technology (TRIT), SCI Q1, 2026*.
+*Accepted, CAAI Transactions on Intelligence Technology (TRIT), SCI Q1, 2026*.
 
 </div>
 </div>
